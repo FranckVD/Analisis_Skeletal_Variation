@@ -80,7 +80,7 @@ Además del análisis principal, se resolvieron las siguientes preguntas extra:
 
 ## Autor
 
-> Agrega aquí tu nombre, perfil de LinkedIn o correo de contacto.
+> Ramses Callau Rocha, callaurocharamses@gmail.com
 
 ## Licencia
 
